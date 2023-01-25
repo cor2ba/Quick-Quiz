@@ -1,6 +1,6 @@
 # Quick Quiz
 
-Podras ejecutar este proyecto ejecutando este comando en consola `npm start`.   
+Podras ejecutar este proyecto con los siguientes comandos en consola, `npm install` (instalar dependecias) luego `npm start` (levantar proyecto). 
 
 ### Quick Quiz es un juego de preguntas rapidas.
 
